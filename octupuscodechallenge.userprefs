@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{117D4CA6-7AE6-4C81-86B9-5AA70C53DAED}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="octupuscodechallenge/ourPeopleSearch.cs">
+    <Files>
+      <File FileName="octupuscodechallenge/OurPeopleSearchPage.cs" Line="100" Column="15" />
+      <File FileName="octupuscodechallenge/ourPeopleSearch.cs" Line="71" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/ourPeopleSearch.cs" relfile="octupuscodechallenge/ourPeopleSearch.cs" line="34" column="25" />
+      <RunToCursorBreakpoint file="/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/ourPeopleSearch.cs" relfile="octupuscodechallenge/ourPeopleSearch.cs" line="51" column="26" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.octupuscodechallenge PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

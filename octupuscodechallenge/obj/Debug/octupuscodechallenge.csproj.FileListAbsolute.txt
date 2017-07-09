@@ -1,0 +1,12 @@
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/bin/Debug/octupuscodechallenge.dll
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/bin/Debug/octupuscodechallenge.pdb
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/bin/Debug/nunit.framework.dll
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/bin/Debug/WebDriver.dll
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/bin/Debug/WebDriver.Support.dll
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/bin/Debug/nunit.framework.xml
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/bin/Debug/WebDriver.xml
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/bin/Debug/WebDriver.Support.xml
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/obj/Debug/octupuscodechallenge.csprojResolveAssemblyReference.cache
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/obj/Debug/octupuscodechallenge.csproj.CoreCompileInputs.cache
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/obj/Debug/octupuscodechallenge.dll
+/Users/Jey/development/c#/octupuscodechallenge/octupuscodechallenge/obj/Debug/octupuscodechallenge.pdb
